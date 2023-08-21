@@ -1,1 +1,1 @@
-# Nintendo-Games-Sales-Data-Analysis
+Using Power BI to clean, transform, analyze and create a data visualization based on Nintendo Switch game sales. Link to Kaggle dataset [Here](https://www.kaggle.com/datasets/kabhishm/best-selling-nintendo-switch-video-games).
